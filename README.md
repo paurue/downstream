@@ -1,7 +1,7 @@
 # Downstream
 Downstream is a seamless module for Causal Inference
 
-## Diclaimer
+## Disclaimer
 Downstream is at a very early stage, and the API will most certainly undergo big changes
 
 
@@ -23,4 +23,4 @@ print(model)
 >> CausalModel(Treatment → Recovery, Size → Treatment, Size → Recovery)
 model.plot()
 ```
-[Causal Graph](docs/images/graph.png)
+![Causal Graph](docs/images/graph.png)
